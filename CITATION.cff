@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "偏置约束论（注意力预算下的偏置之生成与固化）"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+version: 1.0.0
+date-released: 2026-10-20
+license: CC-BY-NC-4.0
+repository-code: "https://gitee.com/mofahuizhang/ABBK"
+keywords:
+  - 偏置
+  - 认知预算
+  - 结构嵌入
+  - 惯性
+  - 截断
+  - 解锁
