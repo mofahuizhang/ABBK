@@ -8,6 +8,7 @@ authors:
 version: 1.0.0
 date-released: 2026-10-20
 license: CC-BY-NC-4.0
+doi: "10.5281/zenodo.23503178"
 repository-code: "https://gitee.com/mofahuizhang/ABBK"
 keywords:
   - 偏置
